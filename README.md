@@ -9,7 +9,7 @@
 
 - **Currently**: Physics BSc at University of Bath
 - **Interest**: Quantitative Finance & Algorithmic Trading
-- **Skills**: Python, Data Analysis, Financial Modeling, Mathematical Physics
+- **Skills**: Python, Data Analysis, Financial Modeling, Mathematics, Physics
 
 ## 🔬 What I'm Working On
 
