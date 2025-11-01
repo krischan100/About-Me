@@ -3,7 +3,6 @@
 **Physics Undergraduate** at the University of Bath  
 *Applying coding to the world of Quantitative Finance*
 
----
 
 ## Academic & Professional Focus
 
